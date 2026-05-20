@@ -1,26 +1,25 @@
-# vulnerability-assessment-report
-## Target: scanme.nmap.org
-## Date: 20-May-2026
-## Tools Used
-- Nmap 7.98
-- OWASP ZAP 2.17.0
+# FUTURE_CS_01 — Cybersecurity Internship Tasks
 
-## Findings Summary
-| Risk  | Count |
-|------ |-------|
-| Medium| 5     |
-| Low   | 3     |
-| Info  | 2     |
+## Intern: Maramakshaya
+## Start Date: 10/05/2026
+## Deadline: 10/06/2026
 
-## Key Vulnerabilities
-1. CSP Header Not Set
-2. Directory Browsing
-3. HTTP Only Site
-4. Missing Anti-clickjacking Header
-5. Server Version Leak
+---
 
-## Remediation
-- Enable HTTPS/SSL
-- Add security headers
-- Hide server version info
-- Disable directory browsing
+## ✅ Task 1 — Vulnerability Assessment Report
+
+### Target: scanme.nmap.org
+### Tools: Nmap 7.98 | OWASP ZAP 2.17.0
+
+### Findings Summary
+| Risk | Count |
+|------|-------|
+| High | 0 |
+| Medium | 5 |
+| Low | 3 |
+| Info | 2 |
+
+### Deliverables
+- 📊 Vulnerability Assessment PDF Report
+- 📄 ZAP HTML Report: https://1drv.ms/u/c/CD48CF292C9DAF6F/IQCO6D5nt0lrSreBEu2Vjw9zAUgm6AnHB1j-oYCGlFTdBR4
+- 💻 Previous Repo: https://github.com/maramakshaya-code/vulnerability-assessment-report
