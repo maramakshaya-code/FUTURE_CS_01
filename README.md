@@ -22,4 +22,4 @@
 ### Deliverables
 - 📊 Vulnerability Assessment PDF Report
 - 📄 ZAP HTML Report: https://1drv.ms/u/c/CD48CF292C9DAF6F/IQCO6D5nt0lrSreBEu2Vjw9zAUgm6AnHB1j-oYCGlFTdBR4
-- 💻 Previous Repo: https://github.com/maramakshaya-code/vulnerability-assessment-report
+  
