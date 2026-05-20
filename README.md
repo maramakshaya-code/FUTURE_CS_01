@@ -24,29 +24,5 @@
 - 📄 ZAP HTML Report: https://1drv.ms/u/c/CD48CF292C9DAF6F/IQCO6D5nt0lrSreBEu2Vjw9zAUgm6AnHB1j-oYCGlFTdBR4
 
 
----
 
-## ✅ Task 2 — Phishing Email Detection & Awareness System
 
-### Date: 20 May 2026
-### Tools: MXToolbox | VirusTotal | Browser DevTools
-
-### Classification Summary
-| Classification | Count |
-|---------------|-------|
-| 🔴 Phishing | 2 |
-| 🟡 Suspicious | 2 |
-| ✅ Safe | 1 |
-
-### Phishing Indicators Identified
-- Spoofed sender domain
-- Urgency language
-- Phishing kit (PhishKit v2.0)
-- Suspicious URLs (.xyz domain)
-- Requests for PIN/OTP
-
-### Deliverables
-- 📄 Phishing Detection PDF Report (uploaded above)
-- 🔗 MXToolbox Analysis: mxtoolbox.com
-- 🔗 VirusTotal Scan: virustotal.com
-  
